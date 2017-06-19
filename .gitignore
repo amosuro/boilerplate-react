@@ -1,0 +1,9 @@
+.DS_Store
+node_modules
+
+
+# Ignore the build folder to avoid conflicts with auto generated files
+build
+
+# Ignore the test.js file that is auto generated
+app/test/test.js
